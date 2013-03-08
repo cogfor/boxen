@@ -56,6 +56,7 @@ node default {
   include nginx
   include nvm
   include solr
+  include java
 
   # fail if FDE is not enabled
  # if $::root_encrypted == 'no' {
