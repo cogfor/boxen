@@ -4,7 +4,7 @@ class projects::cogfor {
 
     boxen::project { 'cogfor':
         elasticsearch => true,
-        nginx => true
+        nginx => true,
         source => 'cogfor/cogfor'
     }
 }

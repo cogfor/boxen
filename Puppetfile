@@ -35,3 +35,5 @@ github "sudo",     "1.0.0"
 # https://github.com/boxen.
 github "solr",     "1.0.0"
 github "java",     "1.0.6"
+github "elasticsearch", "1.0.0"
+github "nginx", "1.1.0"
